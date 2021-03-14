@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bananaOps"
+    }
+  },
+  "defaultProject": "bananaOps",
+  "cli": {
+    "analytics": false
+  }
 }
